@@ -1,7 +1,6 @@
 <template>
   <div class="about">
     <div>
-
       <fa icon="fa-brands fa-twitter" :style="{ color: 'blue' }" size="3x" />
       <fa icon="fa-brands fa-linkedin" :style="{ color: 'blue' }" size="3x" />
       <fa icon="fa-coffee" :style="{ color: 'brown' }" size="3x" />
